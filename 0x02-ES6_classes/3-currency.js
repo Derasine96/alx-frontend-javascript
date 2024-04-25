@@ -21,7 +21,7 @@ export default class Currency {
 
   set name(value) {
     if (typeof value !== 'string') {
-      throw new Error('Invalid value for course name.');
+      throw new Error('Name must be a string');
     }
     this._name = value;
   }
