@@ -26,6 +26,7 @@ module.exports = {
 			'WithStatement',
 		],
 		'no-underscore-dangle': 'off',
+		"max-classes-per-file": "off",
 	},
 	overrides:[
 		{
