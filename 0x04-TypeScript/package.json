@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "terser-webpack-plugin": "^4.2.3",
+    "ts-node": "^10.9.2"
+  }
+}

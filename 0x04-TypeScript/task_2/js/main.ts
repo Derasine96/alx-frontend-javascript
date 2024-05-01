@@ -67,3 +67,4 @@ function teachClass(todayClass: Subjects) {
     return "Teaching History";
   }
 }
+
